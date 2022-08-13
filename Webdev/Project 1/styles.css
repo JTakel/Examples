@@ -1,0 +1,39 @@
+/* <h1 class="header-text">Web Dev Simplified - Blog</h1> */
+header {
+    background-color: purple; 
+}
+
+.header-text {   
+    color: white;
+    text-align: center;
+}
+
+/* Mõjub mõlemale <h2 class="article-title">Semantic Versioning Explained</h2> ja <h2 class="article-title">The Forgotten React Renderer - React Portal</h2> */
+.article-title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Kõik article-date */
+.article-date {
+    font-style: italic;
+}
+
+/* Kõik article-author ja article-date koos */
+.article-author, .article-date {
+    color: grey;
+}
+
+/* <footer>
+    All articles are original and written specifically for Web Dev Simplified.
+  </footer> */
+.article-end {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
